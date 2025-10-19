@@ -1,0 +1,18 @@
+button {
+      background-color: lightblue;
+      border: white;
+      color:black;
+      padding: 5px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+}
+#main {
+      text-align: center;
+      margin-top: 50px;
+}
+.p-result {
+      font-size: 20px;
+      font-weight: bold;
+      margin-top: 20px;
+}
